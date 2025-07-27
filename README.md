@@ -28,10 +28,6 @@ In this project, I:
 - scikit-learn
 - Matplotlib
 
----
 
-## 🛠️ How to Run
 
-1. Clone this repo:
-```bash
-git clone https://github.com/TarunKayat/iris-knn-classification.git
+ 
